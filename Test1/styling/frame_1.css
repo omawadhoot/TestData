@@ -1,0 +1,251 @@
+/*
+	@name frame_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+#_bg__frame_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,253.6,248.63,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1075px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 93px;
+	background:rgba(214.62,103.02,0,1);
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 102px;
+	width: 223px;
+	height: 288px;
+	background:rgba(255,255,255,1);
+}
+
+
+#tia_airlines {
+	top: 20px;
+	left: 435px;
+	width: 944px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFDF8;
+}
+
+
+#rectangle_4 {
+	top: 355px;
+	left: 325px;
+	width: 1315px;
+	height: 489px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:28px 20px 57px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:28px 20px 57px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:28px 20px 57px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:28px 20px 57px 1px rgba(0,0,0,0.25);
+	box-shadow:28px 20px 57px 1px rgba(0,0,0,0.25);
+	background:rgba(255,253.36,247.56,1);
+}
+
+
+#tialogo_1 {
+	top: 12px;
+	left: 102px;
+	width: 223px;
+	height: 214px;
+}
+
+
+#customer_service {
+	top: 130px;
+	left: 435px;
+	width: 703px;
+	height: 119px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#enter_customer_name_ {
+	top: 430px;
+	left: 365px;
+	width: 1334px;
+	height: 102px;
+	overflow: hidden;
+	font-family: Overpass;
+	font-size: 40px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#enter_pnr_number_ {
+	top: 606px;
+	left: 365px;
+	width: 1334px;
+	height: 102px;
+	overflow: hidden;
+	font-family: Overpass;
+	font-size: 40px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#departure_control_system {
+	top: 214px;
+	left: 435px;
+	width: 1190px;
+	height: 119px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_1 {
+	top: 214px;
+	left: 435px;
+	width: 673px;
+	height: 1px;
+	background:#000000;
+}
+
+
+#rectangle_5 {
+	top: 416px;
+	left: 822px;
+	width: 778px;
+	height: 76px;
+}
+
+
+#rectangle_8 {
+	top: 605px;
+	left: 822px;
+	width: 778px;
+	height: 76px;
+}
+
+
+#rectangle_7 {
+	top: 736px;
+	left: 785px;
+	width: 396px;
+	height: 74px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(217,217,217,1);
+}
+
+
+#or {
+	top: 529px;
+	left: 1182px;
+	width: 101px;
+	height: 79px;
+	overflow: hidden;
+	font-family: Overpass;
+	font-size: 40px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#check_details {
+	top: 750px;
+	left: 858px;
+	width: 294px;
+	height: 79px;
+	overflow: hidden;
+	font-family: Overpass;
+	font-size: 40px;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
+
+.button {
+	top: 736px;
+	left: 785px;
+	width: 396px;
+	height: 74px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(217,217,217,1);
+	font-family: Overpass;
+	font-size: 40px;
+
+}
+.input {
+	top: 416px;
+	left: 822px;
+	width: 778px;
+	height: 76px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #000000;
+	background:rgba(255,253.6,248.63,1);
+	font-size:40px;
+	font-family: Overpass;
+}
